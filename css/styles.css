@@ -1,15 +1,19 @@
-.animal1 {
+#ride1 {
   display: none;
 }
 
-.animal2 {
+#ride2 {
   display: none;
 }
 
-.animal3 {
+#ride3 {
   display: none;
 }
 
-p {
+#ride4 {
+  display: none;
+}
+
+#ride5 {
   display: none;
 }
